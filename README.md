@@ -17,7 +17,7 @@ More information can be found at the Eetlijst [FAQ](https://eetlijst.nl/faq)
 
 ### Open-source projects for you to look at
 
-Also want to be on this list? Contact Ivo, see [FAQ](https://eetlijst.nl/faq)
+Also want to be on this list? Contact us, see [FAQ](https://eetlijst.nl/faq)
 
 | Title             | Description                                 | URL                                                   |
 |-------------------|---------------------------------------------|-------------------------------------------------------|
