@@ -1,4 +1,4 @@
-# Welkom to Eetlijst on Github
+# Welkom to the official Github from Eetlijst
 Eetlijst is thé app if you live together with others.
 
 Stop using cluttered Whatsapp chats/lists. With Eetlijst you can directly see who: eats, does groceries or cooks. It also includes a shared cost-list and grocery list. 
