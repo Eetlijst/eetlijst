@@ -36,5 +36,5 @@ Also, want to be on this list? Contact us, see [FAQ](https://eetlijst.nl/faq)
 |-------------------|---------------------------------------------|-------------------------------------------------------|
 | Physical Eetlijst | Connect Eetlijst with physical RGB lights | https://github.com/PetervanderBurgt/Physical_Eetlijst |
 | Home Assistant Eetlijst | A plugin for Home Assistant | https://github.com/Slalamander/Home-Assistant-Eetlijst |
-| Home Assistant Eetlijst | A plugin for Home Assistant | https://github.com/TjerkZijlstra/eetlijst-plus |
+| Home Assistant integratie voor Eetlijst | See who eats, sign-up and manage the grocery list | https://github.com/TjerkZijlstra/eetlijst-plus |
 
