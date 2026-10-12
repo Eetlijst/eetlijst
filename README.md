@@ -1,7 +1,7 @@
 # Welkom to the official Github from Eetlijst
-Eetlijst is thé app if you live together with others.
+Eetlijst is thé recipe book for your household.
 
-Stop using cluttered Whatsapp chats/lists. With Eetlijst you can directly see who: eats, does groceries or cooks. It also includes a shared cost-list and grocery list. 
+Save recipes from anywhere to Eetlijst, from Instagram, Tiktok to any website. Cook the recipe and use the shared grocery list to easily share what needs to be bought.
 
 
 Go to [Eetlijst](https://eetlijst.nl) and signup!
@@ -35,6 +35,6 @@ Also, want to be on this list? Contact us, see [FAQ](https://eetlijst.nl/faq)
 | Title             | Description                                 | URL                                                   |
 |-------------------|---------------------------------------------|-------------------------------------------------------|
 | Physical Eetlijst | Connect Eetlijst with physical RGB lights | https://github.com/PetervanderBurgt/Physical_Eetlijst |
-| Home Assistant Eetlijst - login via jwt token | A plugin for Home Assistant | https://github.com/Slalamander/Home-Assistant-Eetlijst |
-| Home Assistant Eetlijst - login using username + password | A plugin for Home Assistant | https://github.com/TjerkZijlstra/eetlijst-plus |
+| Home Assistant Eetlijst | A plugin for Home Assistant | https://github.com/Slalamander/Home-Assistant-Eetlijst |
+| Home Assistant Eetlijst | A plugin for Home Assistant | https://github.com/TjerkZijlstra/eetlijst-plus |
 
