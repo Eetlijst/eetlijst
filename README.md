@@ -35,5 +35,6 @@ Also, want to be on this list? Contact us, see [FAQ](https://eetlijst.nl/faq)
 | Title             | Description                                 | URL                                                   |
 |-------------------|---------------------------------------------|-------------------------------------------------------|
 | Physical Eetlijst | Connect Eetlijst with physical RGB lights | https://github.com/PetervanderBurgt/Physical_Eetlijst |
-| Home Assistant Eetlijst | A plugin for Home Assistant | https://github.com/Slalamander/Home-Assistant-Eetlijst |
+| Home Assistant Eetlijst - login via jwt token | A plugin for Home Assistant | https://github.com/Slalamander/Home-Assistant-Eetlijst |
+| Home Assistant Eetlijst - login using username + password | A plugin for Home Assistant | https://github.com/TjerkZijlstra/eetlijst-plus |
 
